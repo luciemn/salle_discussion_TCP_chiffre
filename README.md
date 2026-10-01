@@ -1,4 +1,4 @@
-# Chatroom TCP chiffree avec RSA maison (modifiable) pour experimenter des vulnerabilites.
+# salle_discussion_TCP_chiffre
 
 ## Fichiers
 
@@ -71,4 +71,3 @@ keys/keys_<nom>_<horodatage>.json
 ```
 
 Contient clé publique (`e`, `n`) et privée (`d`, `n`) en hex.
-# salle_discussion_TCP_chiffre
