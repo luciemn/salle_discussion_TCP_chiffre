@@ -1,0 +1,15 @@
+# cles exportees
+keys/
+keys_test/
+
+# python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+
+# ide / os
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
